@@ -20,7 +20,7 @@ const Users = () => {
                 }
             })
     }
-    // console.log(user)
+    
     return (
         <div>
             <Link to='/'>Home</Link>
